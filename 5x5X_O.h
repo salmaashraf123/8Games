@@ -1,7 +1,6 @@
 #ifndef _5X5X_O_H
 #define _5X5X_O_H
 #include "BoardGame_Classes.h"
-
 template <typename T>
 class X_O_Board:public Board<T> {
 public:
